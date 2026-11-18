@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sotero"
+  given-names: "Ana Paula"
+  orcid: "https://orcid.org/0000-0003-4016-1696"
+- family-names: "Lima"
+  given-names: "Camilo"
+  orcid: "https://orcid.org/0000-0002-5579-7809"
+title: "goldmine-sqlite-exporter"
+version: 1.0.0 
+date-released: 2026-11-18
+url: "https://github.com/napaulasotero/goldmine-sqlite-exporter"
